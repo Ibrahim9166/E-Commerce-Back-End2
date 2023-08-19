@@ -31,4 +31,7 @@
   If you have any questions, you can reach out to me via GitHub or email:
   - GitHub: [Ibrahim9166](https://github.com/Ibrahim9166)
   - Email: Ibrahimmuhiedine02@gmail.com
-  
+
+  This is a reuploaded repo this is the previous one 
+  https://github.com/Ibrahim9166/E-Commerce-Back-End
+  i had issues so i made a new repo for it.
